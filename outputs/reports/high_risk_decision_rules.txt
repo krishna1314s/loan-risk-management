@@ -1,0 +1,22 @@
+|--- credit_score <= 632.50
+|   |--- credit_score <= 591.50
+|   |   |--- previous_loans_repaid_pct <= 0.83
+|   |   |   |--- class: 1
+|   |   |--- previous_loans_repaid_pct >  0.83
+|   |   |   |--- class: 1
+|   |--- credit_score >  591.50
+|   |   |--- late_payments_per_year_of_history <= 0.06
+|   |   |   |--- class: 1
+|   |   |--- late_payments_per_year_of_history >  0.06
+|   |   |   |--- class: 1
+|--- credit_score >  632.50
+|   |--- credit_score <= 687.50
+|   |   |--- employment_status_Unemployed <= 0.50
+|   |   |   |--- class: 0
+|   |   |--- employment_status_Unemployed >  0.50
+|   |   |   |--- class: 1
+|   |--- credit_score >  687.50
+|   |   |--- credit_score <= 767.50
+|   |   |   |--- class: 0
+|   |   |--- credit_score >  767.50
+|   |   |   |--- class: 0

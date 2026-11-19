@@ -1,0 +1,44 @@
+,importance
+credit_score,0.9052192154692785
+employment_status_Unemployed,0.7392923205115941
+num_late_payments_2y,0.4405177974208131
+employment_status_Retired,0.3459985612307439
+employment_status_Employed,0.28220432202383994
+debt_to_income,0.2690392113312599
+employment_status_Self-Employed,0.21723859510112803
+monthly_payment,0.20389889319809293
+age,0.20385260273210726
+payment_to_income,0.19497791950688712
+num_inquiries_6m,0.17773622218391014
+home_ownership_Own,0.1760272180118467
+loan_purpose_Personal,0.17352495919883287
+loan_purpose_Car,0.13909732328351682
+annual_income,0.12738575429287163
+years_employed,0.12468379716562643
+credit_history_years,0.11827071269211938
+loan_purpose_Business,0.1148633754461337
+loan_purpose_Medical,0.10561954029604984
+num_prior_defaults,0.10362943676400145
+has_prior_default,0.10362943676400145
+no_repayment_history,0.09825731714607201
+credit_band_Excellent,0.09764123292765377
+employment_stability,0.08995082552526952
+home_ownership_Mortgage,0.08566675252085529
+total_debt_burden,0.07955282192668012
+loan_term_months,0.06613348571159706
+late_payments_per_year_of_history,0.060735871011936414
+loan_amount,0.054321636672359
+credit_band_Poor,0.0488590991153278
+credit_band_Good,0.04824342990070345
+loan_purpose_Education,0.04209586678742341
+loan_purpose_Home Improvement,0.03964525628396844
+previous_loans_repaid_pct,0.037779045158951544
+loan_to_income,0.03354330347116587
+credit_band_Very Good,0.018795438847185476
+interest_rate,0.016366781376003114
+home_ownership_Rent,0.01578869235312345
+loan_purpose_Debt Consolidation,0.011559180600493893
+credit_band_Fair,0.009412702609747966
+num_credit_lines,0.009349404552228772
+existing_debt,0.006770557851066643
+credit_band_Unknown,0.0002591421063517567

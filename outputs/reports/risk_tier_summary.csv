@@ -1,0 +1,4 @@
+risk_class,applicants,actual_default_rate,avg_predicted_prob
+Low,610,0.0557,0.1173
+Medium,693,0.1746,0.3335
+High,697,0.5481,0.7466

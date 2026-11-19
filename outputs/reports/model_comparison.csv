@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC,Brier,Threshold,CV ROC-AUC
+Logistic Regression,0.795,0.6112,0.6499,0.63,0.8341,0.6932,0.16,0.58,0.8325
+Random Forest,0.786,0.591,0.6592,0.6232,0.824,0.6668,0.1446,0.45,0.8243
+Gradient Boosting,0.787,0.5897,0.6797,0.6315,0.8302,0.6789,0.1369,0.3,0.8266
